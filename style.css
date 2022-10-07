@@ -60,7 +60,7 @@ header {
 }
 main {
   position: relative;
-  min-height: 100vh;
+  
   background-color: #1e1e1e;
   z-index: 10;
 }
